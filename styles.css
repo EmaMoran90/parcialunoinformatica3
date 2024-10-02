@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #b69b7470;
+}
+.header {
+    text-align: center;
+    background-color: #998765c4; /* Beige */
+    padding: 20px;
+}
+.navbar {
+    background-color: #6b67598c; /* Beige */
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+footer {
+    background-color: #998a73c2;
+    padding: 10px;
+    text-align: center;
+}
+.social-icons img {
+    width: 24px;
+    margin: 0 5px;
+}
